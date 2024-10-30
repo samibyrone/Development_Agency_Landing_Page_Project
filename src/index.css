@@ -100,7 +100,7 @@ button{
 .navBar_text{
     width: 500px;
     height: 450px;
-    margin: 5% 5% 0% 10%;
+    margin: 10% 5% 0% 10%;
     color: #063852;
 }
 
@@ -172,8 +172,9 @@ button{
 }
 
 .dashboard{
-    width: 920px;
-    height: 655px;
+    width: 1200px;
+    height: 855px;
+    margin-top: 5%;
     rotation: 1deg;
     color: #F6F6F6;
 }
