@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+.mainWrapper{
+    width:100%;
+    height:100vh;
+}
+
 .wrapper{
     width:100%;
     height:900px;
@@ -500,4 +505,114 @@ button{
     line-height: 30px;
     color: #2374EE;
     font-family: Poppins, sans-serif;
+}
+
+.main5{
+    width: 165%;
+    height: 600px;
+    margin: 20% 5% 5% -33%;
+    background-color: #2374EE;
+}
+
+.main5_text{
+    width: 700px;
+    height: 260px;
+    margin: 5% 2% 2% 30%;
+}
+
+.main5_text>h1{
+    width: 550px;
+    height: 60px;
+    align-items: center;
+    justify-content: center;
+    margin: 5% 10% 10% 10%;
+    padding-top: 15%;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Poppins, sans-serif;
+    line-height: 60px;
+    color: #FFFFFF;
+}
+
+.main5_text>p{
+    width: 650px;
+    height: 60px;
+    margin: 5% 10% 13% 3%;
+    align-content: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #D3D5DA;
+    font-family: Poppins, sans-serif;
+}
+
+.main5_section{
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+    height: 550px;
+    margin: 1% 5% 5% 15%;
+}
+
+.main5_sec11{
+    width: 320px;
+    height: 310px;
+    margin: 2%;
+    border-radius: 17px;
+    background-color: #FFFFFF;
+}
+
+.main5_sec11>img{
+    width: 64px;
+    height: 64px;
+    margin: 15% 5% 5% 40%;
+}
+
+.main5_sec11>h1{
+    width: 150px;
+    height: 35px;
+    margin: 5% 5% 5% 25%;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 35px;
+    color: #063852;
+    font-family: Poppins, sans-serif;
+}
+
+.main5_sec11>h2{
+    width: 120px;
+    height: 20px;
+    margin: 5% 5% 5% 35%;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #9EA3AE;
+    font-family: Poppins, sans-serif;
+}
+
+.main5_sec11>p{
+    width: 240px;
+    height: 80px;
+    margin: 5% 5% 5% 10%;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #6C727F;
+    font-family: Poppins, sans-serif;
+}
+
+.main5_btn{
+    width: 180px;
+    height: 60px;
+    border-radius: 37px;
+    margin: 35% 5% 5% 10%;
+    background-color: #2374EE;
+}
+
+.main5_text{
+    width: 83px;
+    height: 250px;
+    color: #FFFFFF;
 }
