@@ -613,6 +613,156 @@ button{
 
 .main5_text{
     width: 83px;
-    height: 250px;
+    height: 25px;
     color: #FFFFFF;
 }
+
+.main6{
+    width: 1300px;
+    height: 950px;
+    margin: 20% 5% 5% -7%;
+}
+
+.main6_section{
+    width: 675px;
+    height: 150px;
+    margin-left: 23%;
+}
+
+.main6_section>h1{
+    width: 370px;
+    height: 60px;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 5% 5% 1% 20%;
+    font-family: Poppins, sans-serif;
+    line-height: 60px;
+    color: #063852;
+    align-items: center;
+}
+
+.main6_section>p{
+    width: 630px;
+    height: 60px;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 3% 1% 5% 3%;
+    font-family: Poppins, sans-serif;
+    line-height: 26px;
+    color: #6C727F;
+    justify-content: center;
+    align-items: center;
+}
+
+.main6_sec11{
+    display: flex;
+    width: 1200px;
+    height: 700px;
+    gap: 50px;
+    margin: 5% 2% 2% 4%;
+}
+
+.main6_section22{
+    width: 260px;
+    height: 550px;
+    margin: 6% 2% 2% 6%;
+}
+
+.main6_section22>p{
+    width: 260px;
+    height: 55px;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: Poppins, sans-serif;
+    color: #6C727F;
+    line-height: 30px;
+}
+
+.main6_section22>h1{
+    width: 250px;
+    height: 70px;
+    font-size: 65px;
+    font-weight: 700;
+    font-family: Poppins, sans-serif;
+    line-height: 70px;
+    color: #063852;
+}
+
+.main6_section22>h1>span{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Poppins, sans-serif;
+    line-height: 40px;
+    color: #6F6C90;
+}
+
+.starter_plan{
+    display: flex;
+    width: 250px;
+    height: 80px;
+}
+
+.starter_plan>img{
+    width: 75px;
+    height: 75px;
+}
+
+.starter_plan>h2{
+    width: 150px;
+    height: 30px;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: Poppins, sans-serif;
+    line-height: 30px;
+    color: #063852;
+}
+
+.plan{
+    width: 210px;
+    height: 60px;
+    position: relative;
+}
+
+.plan>h3{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: Poppins, sans-serif;
+    line-height: 30px;
+    color: #6F5C90;
+}
+
+.plan>p{
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Poppins, sans-serif;
+    line-height: 40px;
+    color: #063852;
+}
+
+.main6_list{
+    display: flex;
+    width: 250px;
+    height: 26px;
+}
+
+.main6_list>h1{
+    width: 220px;
+    height: 26px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Poppins, sans-serif;
+    line-height: 26px;
+    color: #063852;
+}
+
+.main6_list>img{
+    width: 26px;
+    height: 26px;
+}
+
+.main7{
+    width: 100%;
+    height: 700px;
+    background: rgba(6, 56, 82, 1);
+}
+
