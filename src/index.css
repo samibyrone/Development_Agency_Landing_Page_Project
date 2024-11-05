@@ -761,8 +761,162 @@ button{
 }
 
 .main7{
-    width: 100%;
-    height: 700px;
+    width: 165%;
+    height: 900px;
+    margin: 10% 10% 10% -33%;
     background: rgba(6, 56, 82, 1);
 }
 
+.main7_section{
+    display: flex;
+    width: 1300px;
+    height: 600px;
+    padding-top: 5%;
+    margin: 10% 10% 5% 17%;
+}
+
+.main7_text{
+    width: 500px;
+    height: 430px;
+    margin:  5% 0 0 15%;
+}
+
+.main7_text>p{
+    width: 490px;
+    height: 200px;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Poppins, sans-serif;
+    line-height: 60px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.main7_text>h2{
+    width: 470px;
+    height: 100px;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: Poppins, sans-serif;
+    line-height: 30px;
+    margin: 2% 5% 5% 0;
+    color: rgba(158, 163, 174, 1);
+}
+
+.main7_btn-btn{
+    display: flex;
+    width: 400px;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    /*margin: 30% 10% 5% 25%;*/
+}
+
+.main7_btn{
+    width: 200px;
+    height: 70px;
+    border-radius: 38px;
+    color: rgba(35, 116, 238, 1);
+}
+
+.main7_btn-text{
+    width: 110px;
+    height: 25px;
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 20%;
+    font-family: Poppins, sans-serif;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.main7_btn-btn>img{
+    width: 25px;
+    height: 25px;
+    margin-left: 10%;
+}
+
+.main7_btn-btn>h1{
+    width: 100px;
+    height: 25px;
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 10%;
+    font-family: Poppins, sans-serif;
+    line-height: 25px;
+    color: rgba(255,255,255,1);
+}
+
+.main7_footer{
+    display: flex;
+    width: 1300px;
+    height: 100px;
+    margin: 10% 10% 10% 17%;
+}
+
+.main7_logo{
+    width: 320px;
+    height: 100px;
+    margin: 5%
+;
+}
+
+.main7_logo22{
+    width: 170px;
+    height: 40px;
+    display: flex;
+    margin: 5% 3% 3% 2%;
+}
+
+.main7_logo22>img{
+    width: 38px;
+    height: 38px;
+}
+
+.main7_logo22>h1{
+    width: 100px;
+    height: 35px;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+    font-weight: 700;
+    margin-left: 15%;
+    font-family: Poppins, sans-serif;
+    color: rgba(255,255,255,1);
+    line-height: 35px;
+}
+
+.main7_logo>p{
+    width: 320px;
+    height: 25px;
+    align-items: center;
+    font-size: 17px;
+    font-weight: 400;
+    margin-top: 7%;
+    font-family: Plus jakarta sans, sans-serif;
+    line-height: 25px;
+    color: rgba(255,255,255,0.6);
+}
+
+.main7_list{
+    display: flex;
+    width: 1000px;
+    height: 40px;
+    justify-content: space-between;
+    gap: 50px;
+    list-style: none;
+    margin: 2% 10% 10% 25%;
+}
+
+.list7{
+    font-size: 17px;
+    font-weight: 500;
+    font-family: Poppins, sans-serif;
+    line-height: 27px;
+    text-decoration: none;
+    color: rgba(255,255,255,1);
+}
+
+.list7>li{
+    width: 200px;
+    height: 28px;
+}
