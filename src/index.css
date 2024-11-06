@@ -509,24 +509,24 @@ button{
 
 .main5{
     width: 165%;
-    height: 600px;
+    height: 650px;
     margin: 20% 5% 5% -33%;
     background-color: #2374EE;
 }
 
 .main5_text{
     width: 700px;
-    height: 260px;
+    height: 250px;
     margin: 5% 2% 2% 30%;
 }
 
 .main5_text>h1{
     width: 550px;
-    height: 60px;
+    height: 120px;
     align-items: center;
     justify-content: center;
-    margin: 5% 10% 10% 10%;
-    padding-top: 15%;
+    margin: 5% 5% 5% 10%;
+    padding-top: 10%;
     font-size: 40px;
     font-weight: 700;
     font-family: Poppins, sans-serif;
@@ -537,8 +537,8 @@ button{
 .main5_text>p{
     width: 650px;
     height: 60px;
-    margin: 5% 10% 13% 3%;
-    align-content: center;
+    margin: 1% 10% 13% 3%;
+    text-align: center;
     font-size: 16px;
     font-weight: 400;
     line-height: 26px;
@@ -550,16 +550,16 @@ button{
     display: flex;
     justify-content: space-between;
     width: 1200px;
-    height: 550px;
-    margin: 1% 5% 5% 15%;
+    height: 500px;
+    margin: 1% 5% 5% 17%;
 }
 
 .main5_sec11{
-    width: 320px;
-    height: 310px;
-    margin: 2%;
+    width: 400px;
+    height: 350px;
+    margin: 10% 2% 2% 3%;
     border-radius: 17px;
-    background-color: #FFFFFF;
+    background-color: #F6F6F6;
 }
 
 .main5_sec11>img{
@@ -571,18 +571,20 @@ button{
 .main5_sec11>h1{
     width: 150px;
     height: 35px;
-    margin: 5% 5% 5% 25%;
+    margin: 5% 5% 5% 28%;
     font-size: 20px;
     font-weight: 700;
     line-height: 35px;
     color: #063852;
+    text-align: center;
     font-family: Poppins, sans-serif;
 }
 
 .main5_sec11>h2{
     width: 120px;
     height: 20px;
-    margin: 5% 5% 5% 35%;
+    margin: 5% 5% 5% 33%;
+    text-align: center;
     font-size: 15px;
     font-weight: 400;
     line-height: 20px;
@@ -593,9 +595,9 @@ button{
 .main5_sec11>p{
     width: 240px;
     height: 80px;
-    margin: 5% 5% 5% 10%;
+    margin: 5% 5% 5% 15%;
     justify-content: center;
-    align-items: center;
+    text-align: center;
     font-size: 14px;
     font-weight: 400;
     line-height: 20px;
@@ -603,18 +605,24 @@ button{
     font-family: Poppins, sans-serif;
 }
 
-.main5_btn{
+.main5_btn-btn{
     width: 180px;
     height: 60px;
+    margin: 20% 10% 30% 40%;
     border-radius: 37px;
-    margin: 35% 5% 5% 10%;
     background-color: #2374EE;
 }
 
-.main5_text{
-    width: 83px;
-    height: 25px;
-    color: #FFFFFF;
+.main5_btn>p{
+    width: 80px;
+    height: 40px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Poppins, sans-serif;
+    line-height: 25px;
+    padding-top: 10%;
+    margin: 15% 5% 5% 27%;
+    color: rgba(255,255,255,1);
 }
 
 .main6{
@@ -651,7 +659,7 @@ button{
     line-height: 26px;
     color: #6C727F;
     justify-content: center;
-    align-items: center;
+    text-align: center;
 }
 
 .main6_sec11{
@@ -664,8 +672,24 @@ button{
 
 .main6_section22{
     width: 260px;
+    height: 500px;
+    margin: 15% 2% 2% 3%;
+}
+
+.main6_section222{
+    width: 450px;
+    height: 600px;
+    margin-top: 6%;
+    border-radius: 25px;
+    background-color: rgba(35,116,238,1);
+}
+
+.main6_section23{
+    width: 400px;
     height: 550px;
-    margin: 6% 2% 2% 6%;
+    margin: 6% 2% 2% 5%;
+    border-radius: 25px;
+    background-color: rgba(35,116,238,1);
 }
 
 .main6_section22>p{
@@ -850,14 +874,12 @@ button{
     display: flex;
     width: 1300px;
     height: 100px;
-    margin: 10% 10% 10% 17%;
+    margin: 7% 10% 10% 17%;
 }
 
 .main7_logo{
     width: 320px;
     height: 100px;
-    margin: 5%
-;
 }
 
 .main7_logo22{
@@ -899,24 +921,18 @@ button{
 
 .main7_list{
     display: flex;
-    width: 1000px;
-    height: 40px;
     justify-content: space-between;
+    align-items: center;
+    margin-left: 22%;
     gap: 50px;
+    line-height: 27px;
     list-style: none;
-    margin: 2% 10% 10% 25%;
 }
 
 .list7{
     font-size: 17px;
     font-weight: 500;
     font-family: Poppins, sans-serif;
-    line-height: 27px;
     text-decoration: none;
     color: rgba(255,255,255,1);
-}
-
-.list7>li{
-    width: 200px;
-    height: 28px;
 }
