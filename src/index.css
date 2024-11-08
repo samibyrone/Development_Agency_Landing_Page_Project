@@ -559,7 +559,7 @@ button{
     height: 350px;
     margin: 10% 2% 2% 3%;
     border-radius: 17px;
-    background-color: #F6F6F6;
+    background-color: #EBF2FF;
 }
 
 .main5_sec11>img{
@@ -848,14 +848,14 @@ button{
 
 .main6_list{
     display: flex;
-    width: 250px;
+    width: 270px;
     height: 30px;
     margin: 0 2% 3% 5%;
 }
 
 .main6_list2{
     display: flex;
-    width: 250px;
+    width: 270px;
     height: 30px;
     margin: 0 2% 3% 5%;
 }
@@ -914,10 +914,10 @@ button{
 }
 
 .main6_btn2{
-    width: 260px;
+    width: 300px;
     height: 60px;
     border-radius: 37px;
-    margin: 5% 2% 2% 2%;
+    margin: 5% 2% 2% 3%;
     background-color: rgba(225,225,225,1);
 }
 
@@ -926,7 +926,7 @@ button{
     height: 25px;
     font-size: 16px;
     font-weight: 500;
-    margin: 5% 2% 2% 30%;
+    margin: 4% 2% 2% 33%;
     font-family: Poppins, sans-serif;
     line-height: 25px;
     color: rgba(35,116,238,1);
